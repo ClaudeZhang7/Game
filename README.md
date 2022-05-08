@@ -6,7 +6,7 @@ Dans ce repository vous pourrez retrouver les différents jeux que j'aurais pu c
 
 Logiciel : 
 
-Unity : Premier jeu qui arrivera de Juillet à Septembre
+Unity : Premier jeu qui arrivera entre Juillet à Septembre
 
 
 
