@@ -1,6 +1,6 @@
 # Game
 
-Dans ce repository vous pourrez retrouver les différents jeux que j'aurais pu codé durant mon temp libre qui arriveront vers début Juillet à début Septembre.
+Dans ce repository vous pourrez retrouver les différents jeux que j'aurais pu codé durant mon temps libre qui arriveront vers début Juillet à début Septembre.
 
 
 
